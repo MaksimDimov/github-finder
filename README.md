@@ -1,24 +1,9 @@
-# Getting Started with Create React App
+GitHub Finder
+GitHub Finder is a React application that allows you to search for GitHub users and view information available in their profiles. This project demonstrates the use of React functional components, hooks, routing with react-router-dom, fetching data using Axios, and implementing smooth page transitions with framer-motion.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
+Features
+Search Page: Allows users to search for GitHub users by username.
+User Page: Displays detailed information about the selected GitHub user and lists their repositories.
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
