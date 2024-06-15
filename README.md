@@ -1,7 +1,7 @@
-GitHub Finder
+### GitHub Finder
 GitHub Finder is a React application that allows you to search for GitHub users and view information available in their profiles. This project demonstrates the use of React functional components, hooks, routing with react-router-dom, fetching data using Axios, and implementing smooth page transitions with framer-motion.
 
-Features
+## Features
 Search Page: Allows users to search for GitHub users by username.
 User Page: Displays detailed information about the selected GitHub user and lists their repositories.
 ### `npm run build`
